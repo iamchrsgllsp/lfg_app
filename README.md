@@ -4,7 +4,7 @@ Testing functionality of a Looking For Group app for gamers.
 
 Features to include:
 
-- Game List
+- Game List: starting with Destiny 2, Fortnite and Apex
 - Friends List
 - Event Schedule
 - Discord functionality
